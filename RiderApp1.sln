@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderApp1", "RiderApp1.csproj", "{20A5A770-1498-4E28-A04E-BDCCD50996AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A5A770-1498-4E28-A04E-BDCCD50996AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A5A770-1498-4E28-A04E-BDCCD50996AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A5A770-1498-4E28-A04E-BDCCD50996AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A5A770-1498-4E28-A04E-BDCCD50996AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
